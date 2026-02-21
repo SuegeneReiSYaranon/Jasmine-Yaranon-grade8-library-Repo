@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jasmine-yaranon-library-db",
+  "private_key_id": "5421544fb12300da7ae5415de726c98e6cad81eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAXRXuxdgHQZic\nEf0DnDG4toWtm4/HKcQDpdQGDr/SMk+JdDPIc//abpddnoSO1UuOm6BuR81S8WZp\n7XuU43+aEYGWpdbnfDyp+civZmyrfKuz5yVWokemSdn89hViZogNvUM4KpTRhCkQ\nhM1V7zfegxUfrAwLfkUSooCNhI3j3fwCNFflJOz5PeX6iatXg5z1yBHfsOApF6or\nC+H8gPMXCvhCRqt5UdNw1JvCZ4nmgJTxOy8bqH+zqkO36V7F/ZvrjBnmeWmKMlBw\nVYMpKiqUW3U1HNbiOh5MIfH3yMIaIVuFsSyGtpKlDlF/OtHVGhIRpk3t1jagGTDW\n4F1UlUVZAgMBAAECggEALwxVWfH/tT6g8cMgi+p+6ruRlHWQw9h+PZooclbXKbTu\naSMHq0Zb1HPqB5bGuxyF/1om8fIT0O6D6vKPoEnIIsmXVV44YqOrPrN+FxBJEeRL\nJpQpOLg2KAC2FT2m20tSiXG56BnaDihx1r10b0kz8/NBjl6JD6KRiE5AfNxny8xJ\n0AHEi+RKf0/ju1Q1VolFtLnIrmHVTcfX60h1ebUtMJez9wX8nqiMgVtGtwv5EPZt\nQqTJVfBdz4UK/715mas0TVe9wNudWRotQfo+0Unt3T7AKVia2f6YRlioxnLEH8YI\nUHAqyHRQmOTM26VrofwscH2IfKQMP/UNoG4llBtUZQKBgQDg5E4h9s/KE3g+lIgn\nFuIh402igVl8RwVRgvc07ChBh6WKkMvyIfn0E3DGX4vM/9L7B/+IwlEOcFQnXAJH\nrgqafxgvFQdgCpnzY5VRvcNJFHcaq9oEUjpWKQRTipl4deGNUEZbZjaKPtk0Xg09\nTWuZOnveGnj6TGaQHHJGfi68JwKBgQDa+OrA6qE/hiWv6FSmuNni+tloi9WtpMGm\nPe5dhn1ppWwIFv3+6rCCXeumdUMRnNHyoQ8fciY9V8wxRMDJQ6pGGz1DRbFgAI2T\nx7dApbtx9HiK5R1BZFvuMncF2nM0EnJuraPAC0HPCzriIBqBnSI9SjCR7+FFJJQM\nx9luNglifwKBgDYRLWek+tfOTn5dH06mhb838pY7GtRyDqlGH0Ct9g+rGPVzUlTo\nLjur4NUQa3/hkUug5KJwdSRPhSvhRvsMsKfsHlhTae6BHfoR2vhH8wdC0E+tOUEI\ns9W7Drs2+yam0I802XVn4XzjFz0rz2sJjfDMyrLfEm66p33GGQMxmvLJAoGBANYX\nQQ7VWEqPkhFnCjznxsCRmjcJYSWhTGSJcKCoeb3tKq7OLBAszd7ojRn21FhIB00+\nA1cveAvJ567UFdmx+q0IvOElJsNCRyoRvi3K3HYSHDlQwUXKJcfCN3TVnIVw88ka\npFuDphgUVsH3uXK4e12JR+unqYy8srO8Qe3rj0lpAoGAc7HSkOS5p8ThpbIjbmUG\nkGoV7k2FkRyREb90T/1eD0IE/KiWkua18Jb8b5y33xcPHPW5ZS2fj8t+fc6DNwGc\nsJuPEUrVH/xiI9TzDHuZc0f5/heYusA6HVPfrAUqQ0ym57gwzm3iM8Qy5+UQNrcH\nhxtQXmS0cUmO1qPjEB4GqxI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@jasmine-yaranon-library-db.iam.gserviceaccount.com",
+  "client_id": "115654631245059482746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40jasmine-yaranon-library-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
